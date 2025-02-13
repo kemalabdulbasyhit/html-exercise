@@ -1,0 +1,13 @@
+body{
+  background: rgb(156, 31, 31);
+}
+
+#text1{
+  background: #4b4a40;
+  color: antiquewhite;
+}
+.text2{
+  background: rgb(209, 85, 85);
+  color: antiquewhite;
+  border: 5px solid black;
+}

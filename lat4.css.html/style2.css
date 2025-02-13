@@ -1,0 +1,37 @@
+div{
+  width: 10px;
+  padding: 10px;
+  margin: 5px;
+  float: left;
+  text-align: center;
+}
+#text1{
+  background-color: yellow;
+  color: white;
+  margin: 5px;
+  padding: 250px;
+  width: 250px;
+  float: left;
+  text-align: center;
+}
+#text2{
+  background-color: blue;
+  box-shadow: 5px 5px black;
+  color: red;
+  margin: 5px;
+  padding: 25px;
+  width:250px;
+  float: left;
+  text-align: right;
+}
+#text3{
+  background-color: yellow;
+  border: 1px dashed red;
+  color: black;
+  margin: 5px;
+  padding: 25px;
+  width: 250px;
+  float: left;
+  text-align: left;
+  background: linear-gradient(black,gray);
+}

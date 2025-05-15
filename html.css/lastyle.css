@@ -1,0 +1,13 @@
+div{
+  display: inline-block;
+  background: black;
+  color: white;
+  margin: 4px;
+  width: 100px;
+  text-align: center;
+
+}
+input[type="text"]{
+  display: block;
+
+}
